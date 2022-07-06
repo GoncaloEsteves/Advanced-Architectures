@@ -1,0 +1,8 @@
+Tamanho: 2048, Versão: 0, Threads: 24
+      278.510ms
+
+Tamanho: 2048, Versão: 1, Threads: 24
+      247.107ms
+      
+Tamanho: 2048, Versão: 2, Threads: 24
+      321.126ms

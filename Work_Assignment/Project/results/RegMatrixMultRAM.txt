@@ -1,0 +1,59 @@
+Tamanho: 32, Versão: 0
+      0.0903166ms
+    PAPI_L3_TCM: 0
+    PAPI_TOT_INS: 276070
+
+Tamanho: 32, Versão: 1
+      0.0979366ms
+    PAPI_L3_TCM: 0
+    PAPI_TOT_INS: 243258
+
+Tamanho: 32, Versão: 2
+      0.113218ms
+    PAPI_L3_TCM: 0
+    PAPI_TOT_INS: 342520
+
+Tamanho: 128, Versão: 0
+      2.98923ms
+    PAPI_L3_TCM: 0
+    PAPI_TOT_INS: 16883573
+
+Tamanho: 128, Versão: 1
+      3.29642ms
+    PAPI_L3_TCM: 0
+    PAPI_TOT_INS: 14786398
+
+Tamanho: 128, Versão: 2
+      3.64967ms
+    PAPI_L3_TCM: 0
+    PAPI_TOT_INS: 21093979
+
+Tamanho: 1024, Versão: 0
+      11947,1ms
+    PAPI_L3_TCM: 657
+    PAPI_TOT_INS: 8596256860
+
+Tamanho: 1024, Versão: 1
+      1263.41ms
+    PAPI_L3_TCM: 279
+    PAPI_TOT_INS: 7522501518
+
+Tamanho: 1024, Versão: 2
+      15770.6ms
+    PAPI_L3_TCM: 1201
+    PAPI_TOT_INS: 10744793515
+
+Tamanho: 2048, Versão: 0
+      33342.9ms
+    PAPI_L3_TCM: 18562513
+    PAPI_TOT_INS: 68744712246
+
+Tamanho: 2048, Versão: 1
+      9917.17ms
+    PAPI_L3_TCM: 3656211
+    PAPI_TOT_INS: 60154745563
+
+Tamanho: 2048, Versão: 2
+      74002.3ms
+    PAPI_L3_TCM: 53634356
+    PAPI_TOT_INS: 85928820453

@@ -1,0 +1,35 @@
+Tamanho: 32, Versão: 0
+    PAPI_FP_OPS: 65753
+
+Tamanho: 32, Versão: 1
+    PAPI_FP_OPS: 66093
+    
+Tamanho: 32, Versão: 2
+    PAPI_FP_OPS: 66210
+    
+Tamanho: 128, Versão: 0
+    PAPI_FP_OPS: 4367912
+    
+Tamanho: 128, Versão: 1
+    PAPI_FP_OPS: 4370514
+    
+Tamanho: 128, Versão: 2
+    PAPI_FP_OPS: 4388513
+    
+Tamanho: 1024, Versão: 0
+    PAPI_FP_OPS: 13268233388
+    
+Tamanho: 1024, Versão: 1
+    PAPI_FP_OPS: 2193490597
+    
+Tamanho: 1024, Versão: 2
+    PAPI_FP_OPS: 22009104946
+    
+Tamanho: 2048, Versão: 0
+    PAPI_FP_OPS: 57065261934
+    
+Tamanho: 2048, Versão: 1
+    PAPI_FP_OPS: 17455724925
+    
+Tamanho: 2048, Versão: 2
+    PAPI_FP_OPS: 71719500065

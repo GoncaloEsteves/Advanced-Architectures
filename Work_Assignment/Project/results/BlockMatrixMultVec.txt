@@ -1,0 +1,17 @@
+Tamanho: 32, Versão: 0
+      0.0226498ms
+
+Tamanho: 32, Versão: 1
+      0.0178814ms
+
+Tamanho: 32, Versão: 2
+      0.0219345ms
+
+Tamanho: 128, Versão: 0
+      1.09697ms
+
+Tamanho: 128, Versão: 1
+      0.787973ms
+      
+Tamanho: 128, Versão: 2
+      0.851075ms

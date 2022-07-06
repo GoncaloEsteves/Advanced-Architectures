@@ -1,0 +1,23 @@
+Tamanho: 32, Versão: 0
+    PAPI_FP_OPS: 72073
+    
+Tamanho: 32, Versão: 1
+    PAPI_FP_OPS: 67016
+    
+Tamanho: 128, Versão: 0
+    PAPI_FP_OPS: 4734245
+
+Tamanho: 128, Versão: 1
+    PAPI_FP_OPS: 4399664
+    
+Tamanho: 1024, Versão: 0
+    PAPI_FP_OPS: 2412286890
+    
+Tamanho: 1024, Versão: 1
+    PAPI_FP_OPS: 2204069977
+    
+Tamanho: 2048, Versão: 0
+    PAPI_FP_OPS: 19184128384
+    
+Tamanho: 2048, Versão: 1
+    PAPI_FP_OPS: 17525048340
